@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
-@media only screen and (max-device-width: 350px) {
+@media only screen and (min-device-width: 350px) {
   #hero1 {
     background-attachment: fixed;
     width: 100%;
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media only screen and (max-device-width: 350px) {
+@media only screen and (min-device-width: 350px) {
   #hero2 {
     width: 100%;
     height: 100vh;
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media only screen and (max-device-width: 350px) {
+@media only screen and (min-device-width: 350px) {
   #hero3 {
     width: 100%;
     height: 100vh;
@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media only screen and (max-device-width: 350px) {
+@media only screen and (min-device-width: 350px) {
   #hero4 {
     width: 100%;
     height: 100vh;
@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media only screen and (max-device-width: 350px) {
+@media only screen and (min-device-width: 350px) {
   #hero5 {
     width: 100%;
     height: 100vh;
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media only screen and (max-device-width: 350px) {
+@media only screen and (min-device-width: 350px) {
   #hero6  {
     width: 100%;
     height: 100vh;
@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media only screen and (max-device-width: 350px) {
+@media only screen and (min-device-width: 350px) {
    #hero7 {
     width: 100%;
     height: 100vh;
@@ -196,7 +196,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-@media only screen and (max-width: 350px) {
+@media only screen and (min-width: 350px) {
   #hero1 {
     background-attachment: fixed;
     width: 100%;
@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media only screen and (max-width: 350px) {
+@media only screen and (min-width: 350px) {
   #hero2 {
     width: 100%;
     height: 100vh;
@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media only screen and (max-width: 350px) {
+@media only screen and (min-width: 350px) {
   #hero3 {
     width: 100%;
     height: 100vh;
@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media only screen and (max-width: 350px) {
+@media only screen and (min-width: 350px) {
   #hero4 {
     width: 100%;
     height: 100vh;
@@ -236,7 +236,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media only screen and (max-width: 350px) {
+@media only screen and (min-width: 350px) {
   #hero5 {
     width: 100%;
     height: 100vh;
@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (min-width: 350px) {
   #hero6  {
     width: 100%;
     height: 100vh;
@@ -258,7 +258,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (min-width: 350px) {
    #hero7 {
     width: 100%;
     height: 100vh;
