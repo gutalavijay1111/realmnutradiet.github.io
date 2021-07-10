@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 790px) {
   #hero1 {
     background-attachment: fixed;
     width: 100%;
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media (max-width: 700px) {
+@media (max-width: 790px) {
   #hero2 {
     width: 100%;
     height: 100vh;
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media (max-width: 700px) {
+@media (max-width: 790px) {
   #hero3 {
     width: 100%;
     height: 100vh;
@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media (max-width: 700px) {
+@media (max-width: 790px) {
   #hero4 {
     width: 100%;
     height: 100vh;
@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
   }
 }
-@media (max-width: 710px) {
+@media (max-width: 790px) {
   #hero5 {
     width: 100%;
     height: 100vh;
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 790px) {
   #hero6  {
     width: 100%;
     height: 100vh;
@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 790px) {
    #hero7 {
     width: 100%;
     height: 100vh;
