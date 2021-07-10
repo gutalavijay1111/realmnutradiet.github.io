@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero1 {
   width: 100%;
   height: 100vh;
-  background: url("../img/1.png") center left;
+  background: url("../img/1.png");
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero2 {
   width: 100%;
   height: 100vh;
-  background: url("../img/2.png") bottom right;
+  background: url("../img/2.png");
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero3 {
   width: 100%;
   height: 100vh;
-  background: url("../img/3.png") bottom left 6%;
+  background: url("../img/3.png");
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero4 {
   width: 100%;
   height: 100vh;
-  background: url("../img/4.png") right 35% bottom 45%;
+  background: url("../img/4.png");
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero5 {
   width: 100%;
   height: 100vh;
-  background: url("../img/5.png") bottom left 6%;
+  background: url("../img/5.png");
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -105,91 +105,88 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero6 {
   width: 100%;
-  height: 700px;
+  height: 700vh;
   background: url("../img/6.png");
   background-attachment: fixed;
   background-size: cover;
-  display: none;
-  
 }
 
 #hero7 {
   width: 100%;
   height: 100vh;
-  background: url("../img/7.png") center left 60%;
+  background: url("../img/7.png");
   background-size: cover;
   background-attachment: fixed;
   position: relative;
-  display: none;
 }
 
-@media (min-width: 700px) {
+@media (max-width: 700px) {
   #hero1 {
     background-attachment: fixed;
     width: 100%;
     height: 100vh;
-    background: url("../img/1.png");
+    background: url("../img/mobile/1.png");
     background-size: cover;
     position: relative;
   }
 }
-@media (min-width: 700px) {
+@media (max-width: 700px) {
   #hero2 {
     width: 100%;
     height: 100vh;
-    background: url("../img/2.png");
+    background: url("../img/mobile/2.png");
     background-size: cover;
     background-attachment: fixed;
     position: relative;
   }
 }
-@media (min-width: 700px) {
+@media (max-width: 700px) {
   #hero3 {
     width: 100%;
     height: 100vh;
-    background: url("../img/3.png");
+    background: url("../img/mobile/3.png");
     background-size: cover;
     background-attachment: fixed;
     position: relative;
   }
 }
-@media (min-width: 700px) {
+@media (max-width: 700px) {
   #hero4 {
     width: 100%;
     height: 100vh;
-    background: url("../img/4.png");
+    background: url("../img/mobile/4.png");
     background-size: cover;
     background-attachment: fixed;
     position: relative;
   }
 }
-@media (min-width: 700px) {
+@media (max-width: 710px) {
   #hero5 {
     width: 100%;
     height: 100vh;
-    background: url("../img/5.png");
+    background: url("../img/mobile/5.png");
     background-size: cover;
     background-attachment: fixed;
     position: relative;
   }
 }
 
-@media (min-width: 700px) {
+@media (max-width: 700px) {
   #hero6  {
     width: 100%;
     height: 100vh;
-    background: url("../img/6.png");
+    background: url("../img/mobile/6.png");
     background-size: cover;
     background-attachment: fixed;
     position: relative;
   }
 }
 
-@media (min-width: 700px) {
+@media (max-width: 700px) {
    #hero7 {
     width: 100%;
     height: 100vh;
-    background: url("../img/7.png");
+    background: url("../img/mobile/7.png");
     background-size: cover;
     position: relative;
     background-attachment: fixed;
